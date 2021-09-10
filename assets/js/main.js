@@ -195,4 +195,11 @@
 		return false;
 	});
 
+	$(".maillink").click(function () {
+		window.open('mailto:arjun.p.nmg@gmail.com');
+		return false;
+	});
+
+	
+
 })(jQuery);
