@@ -3907,3 +3907,7 @@ input, select, textarea {
 			}
 
 		}
+
+		#message{
+			white-space: pre;
+		}
